@@ -1,0 +1,20 @@
+h1
+{
+    text-align: center;
+}
+img
+{
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 50px;
+    
+}
+footer
+{
+    border: 1px solid black;
+    background: grey;
+    width: 500px;
+    display: block;
+    margin:auto;
+}
